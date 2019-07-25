@@ -1,5 +1,4 @@
 ;(function(obj_global, $) {
-
     var Salute = function(str_first_name, str_last_name, str_title, str_language) {
         return new Salute.init(str_first_name, str_last_name, str_title, str_language);
     }
